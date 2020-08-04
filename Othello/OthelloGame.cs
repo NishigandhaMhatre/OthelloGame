@@ -43,13 +43,22 @@ namespace Othello
                 int row = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("Enter col: ");
                 int col = Convert.ToInt32(Console.ReadLine());
+                if (row < 0 || row >= ROW || col < 0 || col >= COL)
+                {
+                    Console.WriteLine("Invalid Move, try again");
+                    Console.WriteLine("Enter row: ");
+                    row = Convert.ToInt32(Console.ReadLine());
+                    Console.WriteLine("Enter col: ");
+                    col = Convert.ToInt32(Console.ReadLine());
+
+                }
                 curPlayer.MakeMove(row, col);
                 this.checkNeighBours(row, col);
                 playerNum = FlipPlayer(playerNum);
                 Console.WriteLine(board.ToString());
             }
         }
-
+         
         public int FlipPlayer(int PlayerNum)
         {
             if (PlayerNum == 0)
