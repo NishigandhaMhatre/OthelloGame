@@ -1,0 +1,11 @@
+C:\Users\Babi Nemo\source\repos\Othello\Othello\bin\Debug\netcoreapp3.1\Othello.exe
+C:\Users\Babi Nemo\source\repos\Othello\Othello\bin\Debug\netcoreapp3.1\Othello.deps.json
+C:\Users\Babi Nemo\source\repos\Othello\Othello\bin\Debug\netcoreapp3.1\Othello.runtimeconfig.json
+C:\Users\Babi Nemo\source\repos\Othello\Othello\bin\Debug\netcoreapp3.1\Othello.runtimeconfig.dev.json
+C:\Users\Babi Nemo\source\repos\Othello\Othello\bin\Debug\netcoreapp3.1\Othello.dll
+C:\Users\Babi Nemo\source\repos\Othello\Othello\bin\Debug\netcoreapp3.1\Othello.pdb
+C:\Users\Babi Nemo\source\repos\Othello\Othello\obj\Debug\netcoreapp3.1\Othello.csprojAssemblyReference.cache
+C:\Users\Babi Nemo\source\repos\Othello\Othello\obj\Debug\netcoreapp3.1\Othello.AssemblyInfoInputs.cache
+C:\Users\Babi Nemo\source\repos\Othello\Othello\obj\Debug\netcoreapp3.1\Othello.AssemblyInfo.cs
+C:\Users\Babi Nemo\source\repos\Othello\Othello\obj\Debug\netcoreapp3.1\Othello.dll
+C:\Users\Babi Nemo\source\repos\Othello\Othello\obj\Debug\netcoreapp3.1\Othello.pdb
